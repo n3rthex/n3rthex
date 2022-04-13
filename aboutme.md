@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @n3rthex
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python from a youtube tutorial
+- 💞️ I’m looking to collaborate on anything 
+- 📫 How to reach me through email n3rthex@gmail.com
